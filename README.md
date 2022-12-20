@@ -1,2 +1,2 @@
-# bobthebot
-BobTheBot official website
+# Official BobTheBot Website by Zerber
+## PLEASE DO NOT COPY THE DOCUMENTS BECAUSE THE DEVELOPERS PUT VERY HARD WORK ON THE DOCUMENTS.

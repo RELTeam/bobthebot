@@ -1,2 +1,7 @@
-# Official BobTheBot Website by Zerber
-## PLEASE DO NOT COPY THE DOCUMENTS BECAUSE THE DEVELOPERS PUT VERY HARD WORK ON THE DOCUMENTS.
+# Official Website of Zerber
+
+## The website open-source files updated but it won't change or update the main website
+### Please wait until GitHub Actions finishes the development of the changes or updates. If it shows a green check mark, reload the site.
+
+## Document Copying
+#### Please do not copy the documents and leave it the same. Give us credit if you are willing to to that by linking our GitHub (@zerberdev) or Discord (https://discord.gg/ftetwwpv47)
